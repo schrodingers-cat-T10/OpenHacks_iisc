@@ -1,7 +1,7 @@
 # Disease Prediction from Blood Reports via Deepseek
 
 ## 📌 Overview
-This project builds a **hybrid LSTM-CNN deep learning model** to predict diseases based on blood report values extracted from PDF files. It leverages **RAG (Retrieval-Augmented Generation)** to retrieve relevant data and integrates **FAISS vector embeddings** for efficient retrieval. 
+This project builds a **hybrid LSTM-CNN ** to predict diseases based on blood report values extracted from PDF files. It leverages **RAG (Retrieval-Augmented Generation)** to retrieve relevant data and integrates **FAISS vector embeddings** for efficient retrieval. 
 
 ## 🚀 Features
 - **Extracts blood report values** from PDFs using an AI-based RAG model.
